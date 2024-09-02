@@ -1,0 +1,602 @@
+[
+    {
+        "Produk": "Samsung Galaxy M15 5G 6/128GB - Light Blue",
+        "Harga": "Rp2.499.000",
+        "Lokasi": "Jakarta Utara",
+        "Toko": "Samsung Official Store",
+        "Rating": "5 stars ((517))",
+        "Diskon": "7%, Rp2.699.000"
+    },
+    {
+        "Produk": "(RESMI) Samsung Galaxy Z Fold 6 Fold6 5G 256GB 512GB 1TB Silver Shadow Navy Pink",
+        "Harga": "Rp22.499.000",
+        "Lokasi": "Jakarta Pusat",
+        "Toko": "Putra Group",
+        "Rating": "5 stars ((16))",
+        "Diskon": ""
+    },
+    {
+        "Produk": "Samsung Galaxy A05s 6/128 RAM 6 128 GB 6GB 128GB",
+        "Harga": "Rp1.979.000",
+        "Lokasi": "Jakarta Utara",
+        "Toko": "One Space",
+        "Rating": "5 stars ((87))",
+        "Diskon": "27%, Rp2.699.000"
+    },
+    {
+        "Produk": "(RESMI) iPhone 15 512GB 256GB 128GB Green Blue Pink Yellow Black",
+        "Harga": "Rp13.499.000",
+        "Lokasi": "Jakarta Pusat",
+        "Toko": "Putra Group",
+        "Rating": "5 stars ((334))",
+        "Diskon": ""
+    },
+    {
+        "Produk": "(RESMI) iPhone 15 Pro 1TB 512GB 256GB 128GB Black Blue Natural White Titanium",
+        "Harga": "Rp17.699.000",
+        "Lokasi": "Jakarta Pusat",
+        "Toko": "Putra Group",
+        "Rating": "5 stars ((377))",
+        "Diskon": ""
+    },
+    {
+        "Produk": "Official Xiaomi POCO F6 (8GB+256GB) | (12GB + 512GB) Snapdragon 8s Gen 3 | LiquidCool Technology 4.0 IceLoop",
+        "Harga": "Rp4.899.000",
+        "Lokasi": "Kab. Tangerang",
+        "Toko": "Xiaomi Official Store",
+        "Rating": "5 stars ((5326))",
+        "Diskon": "2%, Rp4,99jt"
+    },
+    {
+        "Produk": "Samsung Galaxy A55 5G 12/256 GB 8/256 GB A55 Garansi Resmi Not A34 A35",
+        "Harga": "Rp4.493.000",
+        "Lokasi": "Jakarta Pusat",
+        "Toko": "Distributor Ponsel",
+        "Rating": "5 stars ((299))",
+        "Diskon": "18%, Rp5,49jt"
+    },
+    {
+        "Produk": "Official POCO X6 Pro 5G | Dimensity 8300-Ultra 120Hz FIow AMOLED 67W T",
+        "Harga": "Rp4.599.000",
+        "Lokasi": "Kab. Tangerang",
+        "Toko": "Xiaomi Official Store",
+        "Rating": "5 stars ((4460))",
+        "Diskon": "8%, Rp4.999.000"
+    },
+    {
+        "Produk": "Official Xiaomi Redmi Note 13 (8GB/128GB) | (8GB/256GB) | Layar 120 Hz FHD+ AMOLED Tiga kamera 108 MP Prosesor Snapdragon 685",
+        "Harga": "Rp2.199.000",
+        "Lokasi": "Kab. Tangerang",
+        "Toko": "Xiaomi Official Store",
+        "Rating": "5 stars ((1814))",
+        "Diskon": "8%, Rp2,39jt"
+    },
+    {
+        "Produk": "Infinix GT 20 Pro 5G 12/256GB - Up to 24GB Extended RAM - Dimensity 8200 Ultimate - 6.78\" Amoled FHD+ 144Hz - 108MP - NFC",
+        "Harga": "Rp4.449.000",
+        "Lokasi": "Jakarta Utara",
+        "Toko": "Infinix Official Store",
+        "Rating": "5 stars ((515))",
+        "Diskon": "5%, Rp4.699.000"
+    },
+    {
+        "Produk": "ASUS ROG Phone 8 12/256GB SNAPDRAGON 8 Gen 3 AMOLED GARANSI RESMI ASUS - Phantom Black",
+        "Harga": "Rp10.989.101",
+        "Lokasi": "Jakarta Pusat",
+        "Toko": "ROG Official Store",
+        "Rating": "5 stars ((34))",
+        "Diskon": "8%, Rp11.999.000"
+    },
+    {
+        "Produk": "itel P55 5G RAM 6+128GB - 5G Network - 50M Dual Clear Cam",
+        "Harga": "Rp1.409.000",
+        "Lokasi": "Kab. Tangerang",
+        "Toko": "Itel Official Store",
+        "Rating": "5 stars ((2227))",
+        "Diskon": "30%, Rp1.999.000"
+    },
+    {
+        "Produk": "TECNO SPARK 20 Pro+ NFC \u2013 8GB+256GB, 3D Curved 6,78\" AMOLED FHD+ 120Hz",
+        "Harga": "Rp2.569.000",
+        "Lokasi": "Jakarta Barat",
+        "Toko": "TECNO Official Store",
+        "Rating": "5 stars ((735))",
+        "Diskon": "11%, Rp2.899.000"
+    },
+    {
+        "Produk": "Apple iPhone 13 Garansi Resmi - 128GB 256GB 512GB",
+        "Harga": "Rp9.729.000",
+        "Lokasi": "Jakarta Pusat",
+        "Toko": "iSmile Official Store",
+        "Rating": "5 stars ((2843))",
+        "Diskon": "37%, Rp15,4jt"
+    },
+    {
+        "Produk": "Official Xiaomi Redmi 13C | Tiga kamera AI 50 MP 16 GB RAM* Layar Dot ",
+        "Harga": "Rp1.499.000",
+        "Lokasi": "Kab. Tangerang",
+        "Toko": "Xiaomi Official Store",
+        "Rating": "5 stars ((4220))",
+        "Diskon": ""
+    },
+    {
+        "Produk": "Infinix Note 40 Pro 8/256GB - Up to 16GB Extended RAM - Helio G99",
+        "Harga": "Rp3.299.000",
+        "Lokasi": "Jakarta Utara",
+        "Toko": "Infinix Official Store",
+        "Rating": "5 stars ((882))",
+        "Diskon": "6%, Rp3.499.000"
+    },
+    {
+        "Produk": "TECNO POVA 6 - 8+8GB*+256GB, 70W Ultra Charge+6000mAh+5 Tahun Proteksi, 120Hz 6,78\" FHD+ Amoled, 90FPS Gyroscope, Dual Speaker Dolby Atmos, Ultra Thin Body, 108MP Ultra Vivid Camera, Android 14, Garansi 12+1 Bulan",
+        "Harga": "Rp2.399.000",
+        "Lokasi": "Jakarta Barat",
+        "Toko": "TECNO Official Store",
+        "Rating": "5 stars ((507))",
+        "Diskon": "14%, Rp2.799.000"
+    },
+    {
+        "Produk": "iQOO Z9 5G (8/256) Snapdragon 7 Gen 3, 6000 mAH, 144Hz AMOLED  (4500 nits), Sony IMX882",
+        "Harga": "Rp4.299.000",
+        "Lokasi": "Kab. Tangerang",
+        "Toko": "vivo Indonesia",
+        "Rating": "5 stars ((1062))",
+        "Diskon": ""
+    },
+    {
+        "Produk": "iQOO 12 (16/512) - 1st Snapdragon 8 Gen 3, 6K VC Cooling , 120+5000mAH",
+        "Harga": "Rp9.999.000",
+        "Lokasi": "Kab. Tangerang",
+        "Toko": "vivo Indonesia",
+        "Rating": "5 stars ((975))",
+        "Diskon": "9%, Rp10.999.000"
+    },
+    {
+        "Produk": "Xiaomi Poco F6 Pro 5G 12/256 GB 8/256 GB Garansi RESMI not F5",
+        "Harga": "Rp4.893.000",
+        "Lokasi": "Jakarta Pusat",
+        "Toko": "Digitech Mall",
+        "Rating": "5 stars ((114))",
+        "Diskon": "39%, Rp7,99jt"
+    },
+    {
+        "Produk": "itel RS4 RAM 8+128GB - NFC - G99 Ultimate - 45W Power Charge - 120Hz 6.6\" - Dual Speaker",
+        "Harga": "Rp1.729.000",
+        "Lokasi": "Kab. Tangerang",
+        "Toko": "Itel Official Store",
+        "Rating": "5 stars ((490))",
+        "Diskon": "31%, Rp2.499.000"
+    },
+    {
+        "Produk": "Apple iPhone 15 Garansi Resmi - 128GB 256GB 512GB",
+        "Harga": "Rp13.599.000",
+        "Lokasi": "Jakarta Pusat",
+        "Toko": "iSmile Official Store",
+        "Rating": "5 stars ((1641))",
+        "Diskon": "30%, Rp19,4jt"
+    },
+    {
+        "Produk": "Official Xiaomi POCO Pad (8GB+256GB) | Snapdragon 7s Gen 2 | Layar 2,5K 12,1\" 120 Hz | Kapasitas baterai besar 10.000 mAh",
+        "Harga": "Rp3.999.000",
+        "Lokasi": "Kab. Tangerang",
+        "Toko": "Xiaomi Official Store",
+        "Rating": "5 stars ((577))",
+        "Diskon": ""
+    },
+    {
+        "Produk": "Infinix Note 40 [8/256 GB] Garansi Resmi Infinix Indonesia 1 Tahun",
+        "Harga": "Rp2.299.000",
+        "Lokasi": "Jakarta Barat",
+        "Toko": "duniagadgetku",
+        "Rating": "5 stars ((2224))",
+        "Diskon": ""
+    },
+    {
+        "Produk": "Samsung Galaxy Z Fold5 12/256GB - Garansi Resmi",
+        "Harga": "Rp18.000.000",
+        "Lokasi": "Jakarta Pusat",
+        "Toko": "Pandawatiga",
+        "Rating": "5 stars ((15))",
+        "Diskon": ""
+    },
+    {
+        "Produk": "Apple iPhone 13 128GB | 256GB | 512GB - Garansi Resmi iBox Apple Indo",
+        "Harga": "Rp9.799.000",
+        "Lokasi": "Jakarta Utara",
+        "Toko": "Universe Store",
+        "Rating": "5 stars ((3132))",
+        "Diskon": "31%, Rp14,2jt"
+    },
+    {
+        "Produk": "Samsung Galaxy A55 8/128GB 8/256GB 12/512GB",
+        "Harga": "Rp5.375.000",
+        "Lokasi": "Tangerang",
+        "Toko": "Myfon Teleshop Official",
+        "Rating": "5 stars ((484))",
+        "Diskon": "17%, Rp6,49jt"
+    },
+    {
+        "Produk": "Samsung Galaxy S22 5G 8/128GB 8/256 Garansi Resmi Samsung Indonesia",
+        "Harga": "Rp7.421.000",
+        "Lokasi": "Jakarta Pusat",
+        "Toko": "Digitech Mall",
+        "Rating": "5 stars ((79))",
+        "Diskon": "13%, Rp8.499.000"
+    },
+    {
+        "Produk": "Official Xiaomi Redmi Note 13 Pro 5G (8GB/256GB) | (12GB/512GB) | Snapdragon 7s Gen 2 Kamera 200 MP ultra-jernih dengan OIS Layar AMOLED 1,5K 120 Hz",
+        "Harga": "Rp4.399.000",
+        "Lokasi": "Kab. Tangerang",
+        "Toko": "Xiaomi Official Store",
+        "Rating": "5 stars ((1366))",
+        "Diskon": ""
+    },
+    {
+        "Produk": "Apple iPhone 14 Garansi Resmi - 128GB 256GB 512GB",
+        "Harga": "Rp11.850.000",
+        "Lokasi": "Jakarta Pusat",
+        "Toko": "iSmile Official Store",
+        "Rating": "5 stars ((585))",
+        "Diskon": "26%, Rp15,9jt"
+    },
+    {
+        "Produk": "iQOO Z9x (8/128) Snapdragon 6 Gen 1 4nm (ANTUTU 570,456+), 6000 mAH, 1000 nits 120hz eye-care display, Dual Stereo Speaker",
+        "Harga": "Rp2.999.000",
+        "Lokasi": "Kab. Tangerang",
+        "Toko": "vivo Indonesia",
+        "Rating": "5 stars ((166))",
+        "Diskon": ""
+    },
+    {
+        "Produk": "Samsung Galaxy S24 Ultra 12/256 GB - Garansi Resmi",
+        "Harga": "Rp17.500.000",
+        "Lokasi": "Jakarta Timur",
+        "Toko": "Wahana Selular",
+        "Rating": "5 stars ((109))",
+        "Diskon": ""
+    },
+    {
+        "Produk": "Itel P55 NFC RAM 8 + 128GB / 256GB - Layar 90Hz Punch Hole",
+        "Harga": "Rp1.319.000",
+        "Lokasi": "Kab. Tangerang",
+        "Toko": "Itel Official Store",
+        "Rating": "5 stars ((2627))",
+        "Diskon": "34%, Rp1.999.000"
+    },
+    {
+        "Produk": "Official POCO M6 Pro | 120Hz Flow AMOLED 64MP triple camera OIS 67W",
+        "Harga": "Rp2.699.000",
+        "Lokasi": "Kab. Tangerang",
+        "Toko": "Xiaomi Official Store",
+        "Rating": "5 stars ((2520))",
+        "Diskon": "10%, Rp2.999.000"
+    },
+    {
+        "Produk": "Official POCO X6 | Powerful Snapdragon\u00ae 7s Gen 2 FIow AMOLED 120 Hz 64",
+        "Harga": "Rp3.599.000",
+        "Lokasi": "Kab. Tangerang",
+        "Toko": "Xiaomi Official Store",
+        "Rating": "5 stars ((3722))",
+        "Diskon": "10%, Rp3.999.000"
+    },
+    {
+        "Produk": "TECNO POVA 6 - 8+8GB*+256GB, 70W Ultra Charge+6000mAh+5 Tahun Proteksi, 120Hz 6,78\" FHD+ Amoled, 90FPS Gyroscope, Dual Speaker Dolby Atmos, Ultra Thin Body, 108MP Ultra Vivid Camera, Android 14, Garansi 12+1 Bulan",
+        "Harga": "Rp2.399.000",
+        "Lokasi": "Jakarta Barat",
+        "Toko": "TECNO Official Store",
+        "Rating": "5 stars ((507))",
+        "Diskon": "14%, Rp2.799.000"
+    },
+    {
+        "Produk": "Asus Zenfone 11 Ultra - Garansi Resmi Asus Indonesia",
+        "Harga": "Rp9.199.000",
+        "Lokasi": "Jakarta Barat",
+        "Toko": "Gallerygadget",
+        "Rating": "5 stars ((5))",
+        "Diskon": ""
+    },
+    {
+        "Produk": "OPPO A3 Pro 5G 8GB/256GB Smartphone (Garansi Resmi)",
+        "Harga": "Rp3.999.000",
+        "Lokasi": "Tangerang",
+        "Toko": "OPPO OFFICIAL STORE",
+        "Rating": "5 stars ((30))",
+        "Diskon": ""
+    },
+    {
+        "Produk": "OPPO A60 8GB+8GB/128GB & 256GB (Garansi Resmi)",
+        "Harga": "Rp2.599.000",
+        "Lokasi": "Tangerang",
+        "Toko": "OPPO OFFICIAL STORE",
+        "Rating": "5 stars ((269))",
+        "Diskon": ""
+    },
+    {
+        "Produk": "(RESMI) Samsung Galaxy S24 Ultra S24+ Plus S24 1TB 512GB 256GB",
+        "Harga": "Rp11.999.000",
+        "Lokasi": "Jakarta Pusat",
+        "Toko": "Putra Group",
+        "Rating": "5 stars ((156))",
+        "Diskon": ""
+    },
+    {
+        "Produk": "Official POCO C65 | RAM hingga 16 GB* Prosesor kencang Helio G85 90Hz ",
+        "Harga": "Rp1.399.000",
+        "Lokasi": "Kab. Tangerang",
+        "Toko": "Xiaomi Official Store",
+        "Rating": "5 stars ((4218))",
+        "Diskon": "3%, Rp1,44jt"
+    },
+    {
+        "Produk": "Vivo Y100 5G 8GB 128GB 256GB 8/128 8/256 / 4G Garansi Resmi",
+        "Harga": "Rp2.660.000",
+        "Lokasi": "Jakarta Pusat",
+        "Toko": "Digitech Mall",
+        "Rating": "5 stars ((120))",
+        "Diskon": "33%, Rp3,99jt"
+    },
+    {
+        "Produk": "iPhone 11 Pro 64GB/256GB Bekas Original 100% | NORMAL MULUS FULLSET",
+        "Harga": "Rp6.300.000",
+        "Lokasi": "Kab. Sleman",
+        "Toko": "Appelhouse Store",
+        "Rating": "5 stars ((101))",
+        "Diskon": "6%, Rp6,7jt"
+    },
+    {
+        "Produk": "Vivo X100 Pro 16/512GB X100 12/256GB",
+        "Harga": "Rp10.849.000",
+        "Lokasi": "Tangerang",
+        "Toko": "Myfon Teleshop Official",
+        "Rating": "5 stars ((121))",
+        "Diskon": "10%, Rp11.999.000"
+    },
+    {
+        "Produk": "Samsung Galaxy M15 5G 6/128GB",
+        "Harga": "Rp2.429.000",
+        "Lokasi": "Tangerang",
+        "Toko": "Myfon Teleshop Official",
+        "Rating": "5 stars ((128))",
+        "Diskon": "3%, Rp2.499.000"
+    },
+    {
+        "Produk": "Samsung Galaxy S22 Plus 5G 8/256GB 8/128GB Resmi SEIN Samsung S22 5G",
+        "Harga": "Rp7.416.000",
+        "Lokasi": "Jakarta Pusat",
+        "Toko": "Distributor Ponsel",
+        "Rating": "5 stars ((104))",
+        "Diskon": "7%, Rp7,99jt"
+    },
+    {
+        "Produk": "Samsung Galaxy M54 5G 8/256GB",
+        "Harga": "Rp4.499.000",
+        "Lokasi": "Jakarta Utara",
+        "Toko": "Samsung Official Store",
+        "Rating": "5 stars ((436))",
+        "Diskon": ""
+    },
+    {
+        "Produk": "APPLE iPhone 15 Pro Max Promax 128GB 256GB 512GB Resmi APPLE Indonesia",
+        "Harga": "Rp18.000.000",
+        "Lokasi": "Jakarta Pusat",
+        "Toko": "Digitech Mall",
+        "Rating": "5 stars ((62))",
+        "Diskon": "40%, Rp29,9jt"
+    },
+    {
+        "Produk": "Infinix GT 20 Pro 5G 8/256 GB [RAM 8+8 Extend] Garansi Resmi",
+        "Harga": "Rp3.999.000",
+        "Lokasi": "Jakarta Barat",
+        "Toko": "duniagadgetku",
+        "Rating": "5 stars ((124))",
+        "Diskon": ""
+    },
+    {
+        "Produk": "Samsung Galaxy S22 5G 8/256 GB Garansi Resmi SEIN 8 256 GB",
+        "Harga": "Rp7.409.000",
+        "Lokasi": "Jakarta Pusat",
+        "Toko": "Digitalisme",
+        "Rating": "5 stars ((37))",
+        "Diskon": "7%, Rp7,99jt"
+    },
+    {
+        "Produk": "Tecno Spark 20 Pro Plus 8/256 GB Garansi Resmi",
+        "Harga": "Rp2.619.000",
+        "Lokasi": "Bandung",
+        "Toko": "MetaCore",
+        "Rating": "5 stars ((215))",
+        "Diskon": ""
+    },
+    {
+        "Produk": "Samsung Galaxy A55 5G 8/256GB",
+        "Harga": "Rp5.499.000",
+        "Lokasi": "Jakarta Utara",
+        "Toko": "Samsung Official Store",
+        "Rating": "5 stars ((1571))",
+        "Diskon": "15%, Rp6.499.000"
+    },
+    {
+        "Produk": "Apple iPhone 15 - Garansi Resmi iBox Apple Indonesia",
+        "Harga": "Rp13.599.000",
+        "Lokasi": "Jakarta Utara",
+        "Toko": "Universe Store",
+        "Rating": "5 stars ((755))",
+        "Diskon": "20%, Rp16,9jt"
+    },
+    {
+        "Produk": "Samsung Galaxy A35 5G 8/256 GB 8/128 GB A 35 Garansi Resmi Not A24 A34",
+        "Harga": "Rp3.944.000",
+        "Lokasi": "Jakarta Pusat",
+        "Toko": "Distributor Ponsel",
+        "Rating": "5 stars ((220))",
+        "Diskon": "23%, Rp5,09jt"
+    },
+    {
+        "Produk": "Samsung Galaxy S24 8/256GB - Garansi Resmi",
+        "Harga": "Rp11.468.000",
+        "Lokasi": "Jakarta Pusat",
+        "Toko": "Pandawatiga",
+        "Rating": "5 stars ((12))",
+        "Diskon": ""
+    },
+    {
+        "Produk": "Xiaomi Redmi Note 13 4G | Redmi Note 13 5G 8/256 GB Garansi Resmi",
+        "Harga": "Rp2.149.000",
+        "Lokasi": "Jakarta Barat",
+        "Toko": "duniagadgetku",
+        "Rating": "5 stars ((807))",
+        "Diskon": ""
+    },
+    {
+        "Produk": "Samsung Galaxy S23 Ultra 5G 12/256 GB - Garansi Resmi",
+        "Harga": "Rp14.750.000",
+        "Lokasi": "Jakarta Timur",
+        "Toko": "Wahana Selular",
+        "Rating": "5 stars ((31))",
+        "Diskon": ""
+    },
+    {
+        "Produk": "HANDPHONE - SAMSUNG Z FLIP 5 GARANSI RESMI",
+        "Harga": "Rp10.050.000",
+        "Lokasi": "Jakarta Pusat",
+        "Toko": "Scorpio Electro",
+        "Rating": "5 stars ((23))",
+        "Diskon": ""
+    },
+    {
+        "Produk": "Samsung Galaxy A05 4/64GB 4/128GB 6/128GB",
+        "Harga": "Rp1.135.000",
+        "Lokasi": "Tangerang",
+        "Toko": "Myfon Teleshop Official",
+        "Rating": "5 stars ((1141))",
+        "Diskon": "13%, Rp1,3jt"
+    },
+    {
+        "Produk": "iPhone 12 64GB/128GB Bekas Original 100% | NORMAL MULUS FULLSET",
+        "Harga": "Rp5.253.000",
+        "Lokasi": "Kab. Sleman",
+        "Toko": "Appelhouse Store",
+        "Rating": "5 stars ((55))",
+        "Diskon": ""
+    },
+    {
+        "Produk": "Apple iPhone 11 64 GB - Garansi Resmi iBox Apple Indonesia",
+        "Harga": "Rp7.299.000",
+        "Lokasi": "Jakarta Utara",
+        "Toko": "Universe Store",
+        "Rating": "5 stars ((1971))",
+        "Diskon": "14%, Rp8.499.000"
+    },
+    {
+        "Produk": "Infinix Zero 30 4G 8/256GB \u2013 Up to 16 GB - 120Hz - 8/256 Garansi Resmi",
+        "Harga": "Rp2.649.000",
+        "Lokasi": "Jakarta Utara",
+        "Toko": "Infinix Official Store",
+        "Rating": "5 stars ((840))",
+        "Diskon": "15%, Rp3.099.000"
+    },
+    {
+        "Produk": "HANDPHONE - SAMSUNG S24 GARANSI RESMI",
+        "Harga": "Rp12.662.000",
+        "Lokasi": "Jakarta Pusat",
+        "Toko": "Scorpio Electro",
+        "Rating": "5 stars ((14))",
+        "Diskon": ""
+    },
+    {
+        "Produk": "TECNO POVA 4 8/128 GB - Garansi Resmi",
+        "Harga": "Rp1.899.000",
+        "Lokasi": "Jakarta Timur",
+        "Toko": "Wahana Selular",
+        "Rating": "5 stars ((112))",
+        "Diskon": ""
+    },
+    {
+        "Produk": "Official Xiaomi POCO X5 Pro 5G (6GB/128GB) | (8GB/256GB) Snapdragon",
+        "Harga": "Rp2.999.000",
+        "Lokasi": "Kab. Tangerang",
+        "Toko": "Xiaomi Official Store",
+        "Rating": "5 stars ((2916))",
+        "Diskon": "25%, Rp3,99jt"
+    },
+    {
+        "Produk": "HANDPHONE - SAMSUNG S23 ULTRA 5G 12/256 GARANSI RESMI",
+        "Harga": "Rp14.750.000",
+        "Lokasi": "Jakarta Pusat",
+        "Toko": "Scorpio Electro",
+        "Rating": "5 stars ((23))",
+        "Diskon": ""
+    },
+    {
+        "Produk": "Samsung Galaxy A15 5G 8/256 8/128 GB Garansi Resmi 8 128 256 GB",
+        "Harga": "Rp2.498.000",
+        "Lokasi": "Jakarta Pusat",
+        "Toko": "Digitalisme",
+        "Rating": "5 stars ((148))",
+        "Diskon": ""
+    },
+    {
+        "Produk": "the O rama 60 v1 kaya toast OS",
+        "Harga": "Rp135.000",
+        "Lokasi": "Surakarta",
+        "Toko": "priceline_shop",
+        "Rating": "5 stars ((8))",
+        "Diskon": ""
+    },
+    {
+        "Produk": "Samsung Galaxy S24 Ultra 12/256GB 12/512GB 12/1TB",
+        "Harga": "Rp18.199.000",
+        "Lokasi": "Tangerang",
+        "Toko": "Myfon Teleshop Official",
+        "Rating": "5 stars ((94))",
+        "Diskon": "17%, Rp21,9jt"
+    },
+    {
+        "Produk": "iQOO Z9 5G (8/128) Snapdragon 7 Gen 3, 6000 mAH, 144Hz AMOLED (4500 nits), Sony IMX882",
+        "Harga": "Rp3.999.000",
+        "Lokasi": "Kab. Tangerang",
+        "Toko": "vivo Indonesia",
+        "Rating": "5 stars ((392))",
+        "Diskon": ""
+    },
+    {
+        "Produk": "(RESMI) Samsung Galaxy S24 Ultra 256GB 512GB 1TB Black Gray",
+        "Harga": "Rp17.799.000",
+        "Lokasi": "Jakarta Pusat",
+        "Toko": "Putra Group",
+        "Rating": "5 stars ((449))",
+        "Diskon": ""
+    },
+    {
+        "Produk": "TECNO POVA 6 Pro 5G - 12+12GB*+256GB, Mediatek Dimensity 6080 5G Processor, 70W Ultra Charge+6000mAh+5 Tahun Proteksi, 6,78\" FHD+Amoled 120Hz Screen, HiOS 14, 108MP Ultra Vivid Camera, Dual Speaker Dolby Atmos, Ultra Thin Body, Garansi 12+1 Bulan",
+        "Harga": "Rp3.249.000",
+        "Lokasi": "Jakarta Barat",
+        "Toko": "TECNO Official Store",
+        "Rating": "5 stars ((244))",
+        "Diskon": "2%, Rp3.299.000"
+    },
+    {
+        "Produk": "(RESMI) Samsung Galaxy Z Flip 6 Flip6 5G 256GB 512GB Blue Mint Silver Shadow Yellow",
+        "Harga": "Rp14.499.000",
+        "Lokasi": "Jakarta Pusat",
+        "Toko": "Putra Group",
+        "Rating": "5 stars ((7))",
+        "Diskon": ""
+    },
+    {
+        "Produk": "(RESMI) Galaxy S23 FE S23FE 8/128GB 8/256GB Green Mint Cream Graphite Original NEW",
+        "Harga": "Rp7.499.000",
+        "Lokasi": "Jakarta Pusat",
+        "Toko": "Putra Group",
+        "Rating": "5 stars ((25))",
+        "Diskon": ""
+    },
+    {
+        "Produk": "(RESMI) Samsung Galaxy A25 5G 8/256GB 256 GB Black Blue Yellow",
+        "Harga": "Rp3.499.000",
+        "Lokasi": "Jakarta Pusat",
+        "Toko": "Putra Group",
+        "Rating": "5 stars ((66))",
+        "Diskon": ""
+    }
+]
