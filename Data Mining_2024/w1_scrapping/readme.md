@@ -1,7 +1,7 @@
 <h1>Crawling Website<h1>
 
 Website : Tokopedia.com 
-
+<p>
 Berikut adalah beberapa informasi yang bermanfaat dari data yang telah di scrap berikan:
 
 1. Rata-Rata Harga Produk
@@ -30,3 +30,4 @@ Toko dengan Jumlah Produk Terbanyak: Xiaomi Official Store dan Infinix Official 
 Dari data ini, dapat dilihat bahwa produk smartphone dengan rentang harga menengah (Rp1.000.000 - Rp5.000.000) merupakan yang paling banyak dijual di platform ini. Selain itu, Kabupaten Tangerang dan Jakarta Pusat menjadi pusat utama distribusi produk, menunjukkan tingginya konsentrasi toko-toko resmi di wilayah tersebut.
 
 Informasi ini dapat berguna untuk memahami pola penjualan dan distribusi produk smartphone di Tokopedia, serta membantu dalam perencanaan bisnis atau analisis pasar.
+<p>
