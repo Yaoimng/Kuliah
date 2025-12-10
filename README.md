@@ -12,13 +12,11 @@
 
 | Main Menu | Gameplay |
 | :---: | :---: |
-| (<img width="958" height="538" alt="image" src="https://github.com/user-attachments/assets/7a9b4c02-5358-412f-a88c-908c4d3b6a84" />
-) | (<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/84a9fcc9-7807-4648-b765-e2d91cb3d401" />) |
+| <img width="958" height="538" alt="image" src="https://github.com/user-attachments/assets/7a9b4c02-5358-412f-a88c-908c4d3b6a84" /> | (<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/84a9fcc9-7807-4648-b765-e2d91cb3d401" />) |
 
 | Map Overview | Environment |
 | :---: | :---: |
-| (<img width="1036" height="532" alt="image" src="https://github.com/user-attachments/assets/d50d7b5d-56f9-414a-92ff-5fe53c675dbb" />
-) |(<img width="1036" height="533" alt="image" src="https://github.com/user-attachments/assets/b6d6f081-ff8c-483b-a083-bc5075a94b81" />) |
+| (<img width="1036" height="532" alt="image" src="https://github.com/user-attachments/assets/d50d7b5d-56f9-414a-92ff-5fe53c675dbb" /> | (<img width="1036" height="533" alt="image" src="https://github.com/user-attachments/assets/b6d6f081-ff8c-483b-a083-bc5075a94b81" />) |
 
 > *Visual game menampilkan estetika low-poly dengan pencahayaan bergaya synthwave/sunset.*
 
