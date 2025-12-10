@@ -12,7 +12,9 @@
 
 | Main Menu | Gameplay |
 | :---: | :---: |
-| ![Main Menu](<img width="961" height="541" alt="image" src="https://github.com/user-attachments/assets/3155c8e5-2e33-4717-82c4-592b3813c601" />) | ![In-Game Action](<img width="961" height="534" alt="image" src="https://github.com/user-attachments/assets/cc0f4ffe-f807-4234-8998-edeb94dd726f" />) |
+| ![Main Menu](<img width="958" height="538" alt="image" src="https://github.com/user-attachments/assets/7a9b4c02-5358-412f-a88c-908c4d3b6a84" />
+) | ![In-Game Action](<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/84a9fcc9-7807-4648-b765-e2d91cb3d401" />
+) |
 
 | Map Overview | Environment |
 | :---: | :---: |
