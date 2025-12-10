@@ -12,11 +12,15 @@
 
 | Main Menu | Gameplay |
 | :---: | :---: |
-| ![Main Menu](image_31bee6.png) | ![In-Game Action](image_315a83.png) |
+| ![Main Menu](<img width="961" height="541" alt="image" src="https://github.com/user-attachments/assets/3155c8e5-2e33-4717-82c4-592b3813c601" />
+) | ![In-Game Action](<img width="961" height="534" alt="image" src="https://github.com/user-attachments/assets/cc0f4ffe-f807-4234-8998-edeb94dd726f" />
+) |
 
 | Map Overview | Environment |
 | :---: | :---: |
-| ![Map Overview](image_315dc9.png) | ![City Environment](image_315d4d.png) |
+| ![Map Overview](<img width="1036" height="532" alt="image" src="https://github.com/user-attachments/assets/d50d7b5d-56f9-414a-92ff-5fe53c675dbb" />
+) | ![City Environment](<img width="1036" height="533" alt="image" src="https://github.com/user-attachments/assets/b6d6f081-ff8c-483b-a083-bc5075a94b81" />
+) |
 
 > *Visual game menampilkan estetika low-poly dengan pencahayaan bergaya synthwave/sunset.*
 
